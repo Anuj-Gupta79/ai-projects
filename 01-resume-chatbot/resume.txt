@@ -1,0 +1,32 @@
+Name: Alex Rivera
+Location: Bangalore, India
+Email: alex.rivera@email.com
+
+SUMMARY
+Full stack developer with 3 years of experience building web applications.
+Passionate about clean code and solving real world problems.
+
+SKILLS
+Languages: JavaScript, TypeScript, Python, Java, C++
+Frontend: React, Next.js, HTML, CSS
+Backend: Node.js, Spring Boot, REST APIs
+Databases: PostgreSQL, MongoDB
+Tools: Git, Docker, VS Code, Linux
+
+EXPERIENCE
+Senior Developer — TechCorp, Bangalore (2022 - Present)
+- Built a workflow management system used by 500+ employees
+- Reduced API response time by 40% through query optimisation
+- Mentored 3 junior developers
+
+Junior Developer — StartupXYZ, Bangalore (2021 - 2022)
+- Developed REST APIs using Spring Boot
+- Worked on React frontend for a SaaS dashboard
+
+EDUCATION
+B.Tech Computer Science — VTU, 2021
+
+PROJECTS
+- E-commerce platform with React + Node.js
+- DSA problem solver CLI tool in C++
+- Automation scripts in Python
