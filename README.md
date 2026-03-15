@@ -8,7 +8,7 @@ prompt engineering and agentic AI from scratch.
 | #   | Project                                | Concepts Covered                           | Status    |
 | --- | -------------------------------------- | ------------------------------------------ | --------- |
 | 01  | [Resume Chatbot](./01-resume-chatbot/) | API calls, Prompt Engineering, Fake Memory | ✅ Done   |
-| 02  | Document Q&A Tool                      | RAG, Embeddings, Vector Search             | 🔜 Coming |
+| 02  | Document Q&A Tool                      | RAG, Embeddings, Vector Search             | ✅ Coming |
 | 03  | AI Research Agent                      | Agentic AI, Tool Use, Multi-step Reasoning | 🔜 Coming |
 | 04  | Capstone Project                       | End to end AI product                      | 🔜 Coming |
 
