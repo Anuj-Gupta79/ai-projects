@@ -1,15 +1,3 @@
----
-
-### Project 3 is done! Let's wrap it up.
-
-**1. Save dependencies**
-```bash
-pip freeze > requirements.txt
-```
-
-**2. Create `README.md`** — here it is:
-
-```markdown
 # 🤖 AI Research Agent
 
 A terminal-based agentic AI that plans, uses tools, and completes 
