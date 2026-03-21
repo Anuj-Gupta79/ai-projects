@@ -1,6 +1,3 @@
-Yes a few things to update — Project 4 description is still generic and TypeScript/LangChain were never actually used. Let's make it accurate and polished:
-
-```markdown
 # 🧠 AI Projects — Learning Journey
 
 A collection of hands-on projects built to understand Generative AI,
@@ -11,12 +8,12 @@ and builds on the previous one.
 
 ## Projects
 
-| #   | Project                                        | Concepts Covered                                        | Status  |
-| --- | ---------------------------------------------- | ------------------------------------------------------- | ------- |
-| 01  | [Resume Chatbot](./01-resume-chatbot/)         | API calls, Prompt Engineering, Fake Memory              | ✅ Done |
-| 02  | [Document Q&A Tool](./02-document-qa/)         | RAG, Embeddings, Vector Search, ChromaDB                | ✅ Done |
-| 03  | [AI Research Agent](./03-ai-agent/)            | Agentic AI, Tool Use, Multi-step Reasoning              | ✅ Done |
-| 04  | [AI Code Reviewer](./04-code-reviewer/)        | RAG + Agentic AI + Self-directed Agent + Prompt Engineering | ✅ Done |
+| #   | Project                                 | Concepts Covered                                            | Status  |
+| --- | --------------------------------------- | ----------------------------------------------------------- | ------- |
+| 01  | [Resume Chatbot](./01-resume-chatbot/)  | API calls, Prompt Engineering, Fake Memory                  | ✅ Done |
+| 02  | [Document Q&A Tool](./02-document-qa/)  | RAG, Embeddings, Vector Search, ChromaDB                    | ✅ Done |
+| 03  | [AI Research Agent](./03-ai-agent/)     | Agentic AI, Tool Use, Multi-step Reasoning                  | ✅ Done |
+| 04  | [AI Code Reviewer](./04-code-reviewer/) | RAG + Agentic AI + Self-directed Agent + Prompt Engineering | ✅ Done |
 
 ## What I Learned
 
@@ -30,7 +27,7 @@ and builds on the previous one.
 
 ```
 Project 1 → You control everything, AI just responds
-Project 2 → AI answers from your documents intelligently  
+Project 2 → AI answers from your documents intelligently
 Project 3 → AI plans and acts autonomously with tools
 Project 4 → All three combined into one real product
 ```
@@ -54,6 +51,3 @@ python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 ```
-```
-
----
