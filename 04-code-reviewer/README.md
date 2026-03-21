@@ -111,4 +111,3 @@ Review report is saved to `review_report.txt` after each run.
 Replace `sample_code.py` with any Python file you want reviewed.
 The agent will adapt its research depth automatically based on
 what it finds in your code.
-```
